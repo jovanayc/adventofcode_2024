@@ -1,7 +1,7 @@
 # Jovanay Carter
 # Advent of Code 
 # Day 2 | Dec 2, 2024 | 1:25PM CST
-# Time to complete: 
+# Time to complete: 28 mins
 
 '''
 The levels (rows) must either all increasing or all decreasing.
